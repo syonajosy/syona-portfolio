@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, exper
 
 ## Live Website
 You can visit my portfolio website here:
-[https://syonajosy.github.io/](https://syonajosy.github.io/)
+[https://syonajosy.github.io/syona-portfolio/](https://syonajosy.github.io/syona-portfolio/)
 
 ## About
 
@@ -23,6 +23,6 @@ This portfolio website highlights my journey as a **Data Scientist**, **Data Ana
 
 Feel free to connect with me:
 
-- **LinkedIn**: [Yashasvi Sharma](https://www.linkedin.com/in/syonajaimy/)
-- **GitHub**: [Yashasvi Sharma](https://github.com/syonajosy)
+- **LinkedIn**: [Syona Jaimy](https://www.linkedin.com/in/syonajaimy/)
+- **GitHub**: [Syona Jaimy](https://github.com/syonajosy)
 - **Email**: syona.j@outlook.com
